@@ -23,13 +23,13 @@ It was built as part of my application to AppyWay, focusing on urban mobility, t
 ## Dashboard (Power BI)
 
 ### Default View
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard_default.png)
 
 ### Weekday Filter Example: Tuesday
-![Tuesday Filter](screenshots/dashboard_tuesday.png)
+![Tuesday Filter](screenshots/dashboard_tue.png)
 
 ### Weekday Filter Example: Saturday
-![Saturday Filter](screenshots/dashboard_saturday.png)
+![Saturday Filter](screenshots/dashboard_sat.png)
 
 The dashboard is **interactive**. Selecting a weekday automatically updates all charts and KPIs, allowing users to explore patterns dynamically.
 
