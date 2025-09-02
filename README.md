@@ -9,7 +9,7 @@ It was built as part of my application to AppyWay, focusing on urban mobility, t
 - Source: [Kaggle – London Bike Sharing Dataset](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset)  
 - 48,000+ records with features such as:
   - `cnt`: number of bike rentals (target variable)
-  - `t1`, `t2`: temperatures (Celsius, normalized)
+  - `t1`, `t2`: temperatures (Celsius, normalised)
   - `hum`: humidity
   - `weather_code`: weather conditions
   - `is_holiday`, `is_weekend`: calendar flags
